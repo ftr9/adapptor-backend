@@ -1,0 +1,8 @@
+# installed packages
+node_modules
+
+# production build
+dist
+
+# all the test coverages
+coverage 
