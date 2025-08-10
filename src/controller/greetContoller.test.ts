@@ -10,7 +10,7 @@ describe(`greetController -> ${greetV1Route}`, () => {
     expect(messageResponse.statusCode).toBe(200);
     expect(messageResponse.body).toMatchObject({
       status: "success",
-      data: "welcome from server",
+      data: "welcome from Adapptor server",
     });
   });
 });
