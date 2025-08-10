@@ -6,3 +6,6 @@ dist
 
 # all the test coverages
 coverage 
+
+# ignore environment variables
+src/configs/.env
